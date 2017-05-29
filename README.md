@@ -8,7 +8,9 @@ The app should parse the csv file and remove any records (rows) which meet both 
 
 ● For each variable (column), no value falls between FMIN and FMAX.
 
-Where FMIN and FMAX are the smallest and largest value for that variable across all records with a decision value of 1. This new stripped down data should then be shown to the user in tabular format. Please see some example input and output in this folder for clarification (output example are in csv form, but we expect the web interface to display output in your solution)
+Where FMIN and FMAX are the smallest and largest value for that variable across all records with a decision value of 1. This new stripped down data should then be shown to the user in tabular format. 
+
+Please see some example input and output in this folder for clarification (output example are in csv form, but we expect the web interface to display output in your solution)
 
 The deliverable
 
